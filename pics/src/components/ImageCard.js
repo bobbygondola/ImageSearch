@@ -5,7 +5,7 @@ import React from 'react'
 //      Use Case - Dynamically finding height of a dom element to adjust css or classNames accordingly.
 
 
-//Callbacks have to be BOUND. Set the function calling the CallBack in Arrow Function Syntax. => {} refs
+//Callbacks have to be BOUND. Set the function calling the CallBack in Arrow Function Syntax. => {}
 
 
 class ImageCard extends React.Component {
